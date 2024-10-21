@@ -159,9 +159,14 @@ DOMAIN-SUFFIX,zjcdn.com
 
 # CCTV
 DOMAIN-SUFFIX,cctv.com
+DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
-
+DOMAIN-SUFFIX,yangshipin.cn
+DOMAIN-SUFFIX,mobaibox.com
+DOMAIN-SUFFIX,dnsany.com
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,chinamobile.com
 
 # HuaWei
 DOMAIN-SUFFIX,dbankcdn.com
