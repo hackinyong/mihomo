@@ -41,6 +41,10 @@ DOMAIN-SUFFIX,lianjiasub.work
 DOMAIN-SUFFIX,muniucloud.pro
 DOMAIN-SUFFIX,kuajing.uk
 DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,livednow.org
+DOMAIN-SUFFIX,wx.sb
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
