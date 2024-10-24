@@ -1,5 +1,12 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+# 域名匹配
+# 王二小
+DOMAIN,9280.kstore.space
+DOMAIN,tvbox.xn--4kq62z5rby2qupq9ub.top
+DOMAIN,tv.999888987.xyz
+DOMAIN,www.王二小放牛娃.top
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
