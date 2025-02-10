@@ -9,7 +9,9 @@ DOMAIN,www.王二小放牛娃.top
 
 # 玩偶系列
 DOMAIN,mihdr.top
-DOMAIN,www.muoupan.top
+DOMAIN-SUFFIX,muoupan.top
+DOMAIN-SUFFIX,wogg.net
+DOMAIN-SUFFIX,mucpan.cc
 
 # MyList
 # 域名后缀匹配
