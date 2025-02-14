@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,mucpan.cc
 DOMAIN-SUFFIX,xxooo.cf
 DOMAIN-SUFFIX,nxog.eu.org
 
+# 时间服务器
+DOMAIN-SUFFIX,ntp.org
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
