@@ -7,15 +7,30 @@ DOMAIN,tvbox.xn--4kq62z5rby2qupq9ub.top
 DOMAIN,tv.999888987.xyz
 DOMAIN,www.王二小放牛娃.top
 
-# 玩偶系列
-DOMAIN,mihdr.top
-DOMAIN,duopan.fun
-DOMAIN-SUFFIX,muoupan.top
+# 玩偶
 DOMAIN-SUFFIX,wogg.net
-DOMAIN-SUFFIX,mucpan.cc
 DOMAIN-SUFFIX,xxooo.cf
+
+# 讴歌
 DOMAIN-SUFFIX,nxog.eu.org
-DOMAIN-SUFFIX,banye.tech
+
+# 小米
+DOMAIN,milvdou.fun
+
+# 多多
+DOMAIN,tv.yydsys.top
+
+# 蜡笔
+DOMAIN,feimaoai.site
+
+# 至臻
+DOMAIN,xiaomiai.site
+
+# 六趣
+DOMAIN,wp.0v.fit
+
+# 下饭
+DOMAIN,txfpan.top
 
 # 时间服务器
 DOMAIN-SUFFIX,ntp.org
