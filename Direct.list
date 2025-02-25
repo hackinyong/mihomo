@@ -15,6 +15,9 @@ DOMAIN,tvbox.xn--4kq62z5rby2qupq9ub.top
 DOMAIN,tv.999888987.xyz
 DOMAIN,www.王二小放牛娃.top
 
+# 立播
+DOMAIN-KEYWORD,libvio
+
 # 玩偶
 DOMAIN-SUFFIX,wogg.net
 DOMAIN-SUFFIX,wogg.lol
@@ -26,22 +29,32 @@ DOMAIN-KEYWORD,wogg
 DOMAIN-SUFFIX,nxog.eu.org
 
 # 小米
-DOMAIN,milvdou.fun
+DOMAIN-SUFFIX,54271.fun
+DOMAIN-SUFFIX,milvdou.fun
+DOMAIN-SUFFIX,mucpan.cc
 
 # 多多
-DOMAIN,tv.yydsys.top
+DOMAIN-KEYWORD,yydsys
+DOMAIN-SUFFIX,214521.xyz
 
 # 蜡笔
-DOMAIN,feimaoai.site
+DOMAIN-SUFFIX,feimaoai.site
+DOMAIN-SUFFIX,feimao666.fun
+DOMAIN-SUFFIX,feimao888.fun
 
 # 至臻
-DOMAIN,xiaomiai.site
+DOMAIN-SUFFIX,mihdr.top
+DOMAIN-SUFFIX,miqk.cc
+DOMAIN-SUFFIX,xiaomiai.site
 
 # 六趣
 DOMAIN,wp.0v.fit
 
 # 下饭
 DOMAIN,txfpan.top
+
+# 二小
+DOMAIN-SUFFIX,xhww.net
 
 # 星剧社发布页
 DOMAIN-SUFFIX,mlink.cc
