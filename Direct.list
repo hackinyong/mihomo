@@ -33,7 +33,6 @@ DOMAIN,wp.0v.fit
 DOMAIN,txfpan.top
 
 # 时间服务器
-DOMAIN-SUFFIX,ntp.org
 DOMAIN,time.apple.com
 DOMAIN,time.windows.com
 
