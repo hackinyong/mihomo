@@ -27,6 +27,9 @@ DOMAIN-SUFFIX,6qu.top
 DOMAIN-SUFFIX,xhww.net
 
 # 其他网站
+DOMAIN-SUFFIX,proxmox.com
+DOMAIN-KEYWORD,debian
+DOMAIN-SUFFIX,stream-link.org
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
 DOMAIN-SUFFIX,1lib.sk

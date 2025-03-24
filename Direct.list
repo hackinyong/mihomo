@@ -57,7 +57,6 @@ DOMAIN,txfpan.top
 DOMAIN-SUFFIX,mlink.cc
 
 # 时间服务器
-DOMAIN-SUFFIX,ntp.org
 DOMAIN,time.apple.com
 DOMAIN,time.windows.com
 
@@ -66,10 +65,13 @@ DOMAIN,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,playdreamer.cn
+DOMAIN,github.catvod.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,ntp
+DOMAIN-KEYWORD,fgank
+DOMAIN-KEYWORD,fangke
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
