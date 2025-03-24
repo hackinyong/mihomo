@@ -61,7 +61,7 @@ DOMAIN-SUFFIX,mlink.cc
 DOMAIN,woss.fenwe.eu.org
 
 # 大玩偶
-IP-CIDR,149.88.87.18/32,no-resolve
+IP-CIDR,149.88.87.18/32
 
 # 百家影音
 DOMAIN-SUFFIX,jiexi.news
