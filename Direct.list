@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,wogg.lol
 DOMAIN-SUFFIX,xxooo.cf
 DOMAIN-SUFFIX,wogg.one
 DOMAIN-KEYWORD,wogg
+DOMAIN-SUFFIX,333232.xyz
 
 # 讴歌
 DOMAIN-SUFFIX,nxog.eu.org
@@ -55,6 +56,16 @@ DOMAIN,txfpan.top
 
 # 星剧社发布页
 DOMAIN-SUFFIX,mlink.cc
+
+# 玩偶叔叔
+DOMAIN,woss.fenwe.eu.org
+
+# 大玩偶
+IP-CIDR,149.88.87.18/32,no-resolve
+
+# 百家影音
+DOMAIN-SUFFIX,jiexi.news
+DOMAIN-SUFFIX,885525.xyz
 
 # 时间服务器
 DOMAIN,time.apple.com
