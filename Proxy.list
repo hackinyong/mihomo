@@ -25,6 +25,9 @@ DOMAIN-SUFFIX,mo.muouso.fun
 # 其他网站
 DOMAIN-SUFFIX,proxmox.com
 DOMAIN-KEYWORD,debian
+DOMAIN-SUFFIX,api.github.com
+DOMAIN-SUFFIX,api.tmdb.org
+DOMAIN-SUFFIX,www.themoviedb.org
 DOMAIN-SUFFIX,stream-link.org
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
