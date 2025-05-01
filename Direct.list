@@ -26,8 +26,8 @@ DOMAIN,feimaoai.site
 # 至臻
 DOMAIN,xiaomiai.site
 
-# 六趣
-DOMAIN,wp.0v.fit
+# github代理
+DOMAIN-SUFFIX,gh-proxy.com
 
 # 下饭
 DOMAIN,txfpan.top
