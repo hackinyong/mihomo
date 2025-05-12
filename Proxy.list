@@ -28,12 +28,6 @@ IP-CIDR,142.250.0.0/16,no-resolve
 # 饭太硬
 DOMAIN-SUFFIX,饭太硬.com
 
-# 木偶
-DOMAIN-SUFFIX,91muou.icu
-DOMAIN-SUFFIX,666291.xyz
-DOMAIN-SUFFIX,muouso.fun
-DOMAIN-SUFFIX,6qu.top
-
 # 二小
 DOMAIN-SUFFIX,xhww.net
 
