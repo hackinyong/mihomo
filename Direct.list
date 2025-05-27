@@ -1,6 +1,17 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-# 域名匹配
+# DOMAIN：完整域名匹配
+# 如：DOMAIN, www.apple.com, Proxy
+# 如果请求的域完全匹配，则规则匹配。
+
+# DOMAIN-SUFFIX：匹配域名后缀
+# 如：DOMAIN-SUFFIX, apple.com, Proxy
+# 如果请求的域匹配后缀，则规则匹配。例如：apple.com可匹配www.apple.com、itunse.apple.com和apple.com
+
+# DOMAIN-KEYWORD：域名关键词匹配
+# 如：DOMAIN-KEYWORD, apple, Proxy
+# 如果请求的域包含关键字，则规则匹配。例如：www.apple.com、itunes.apple.com、apple.com、applemusic.com
+
 # 王二小
 DOMAIN,9280.kstore.space
 DOMAIN,tvbox.xn--4kq62z5rby2qupq9ub.top
@@ -28,26 +39,28 @@ DOMAIN,xiaomiai.site
 
 # github代理
 DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-SUFFIX,moeyy.xyz
 DOMAIN,github.catvod.com
+
 # 下饭
 DOMAIN,txfpan.top
 
 # 时间服务器
 DOMAIN,time.apple.com
 DOMAIN,time.windows.com
+DOMAIN-KEYWORD,ntp
 
 # MyList
-# 域名后缀匹配
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,playdreamer.cn
 DOMAIN,github.catvod.com
 
-# 域名关键字匹配
-DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,ntp
+# 自用
 DOMAIN-KEYWORD,fgank
 DOMAIN-KEYWORD,fangke
+DOMAIN-SUFFIX,588279.xyz
+
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
