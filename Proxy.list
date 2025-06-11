@@ -26,9 +26,15 @@ IP-CIDR,208.67.220.220/32,no-resolve
 IP-CIDR,142.250.0.0/16,no-resolve
 
 # 木偶
-DOMAIN-SUFFIX,tv.91muou.icu
-DOMAIN-SUFFIX,mo.666291.xyz
-DOMAIN-SUFFIX,mo.muouso.fun
+DOMAIN,tv.91muou.icu
+DOMAIN,mo.666291.xyz
+DOMAIN,mo.muouso.fun
+
+# 自用
+# DOMAIN 域名
+# DOMAIN-SUFFIX 域名后缀
+# DOMAIN-KEYWORD 域名关键字
+DOMAIN,myip.ipip.net 
 
 # 其他网站
 DOMAIN-SUFFIX,proxmox.com
