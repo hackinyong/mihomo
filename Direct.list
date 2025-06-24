@@ -38,7 +38,8 @@ DOMAIN,feimaoai.site
 DOMAIN,xiaomiai.site
 
 # github代理
-DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN,gh-proxy.com
+DOMAIN,cdn.gh-proxy.com
 DOMAIN-SUFFIX,moeyy.xyz
 DOMAIN,github.catvod.com
 
