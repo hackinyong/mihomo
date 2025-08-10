@@ -25,10 +25,6 @@ IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
 IP-CIDR,142.250.0.0/16,no-resolve
 
-# 木偶
-DOMAIN,tv.91muou.icu
-DOMAIN,mo.666291.xyz
-DOMAIN,mo.muouso.fun
 
 # 自用
 # DOMAIN 域名
