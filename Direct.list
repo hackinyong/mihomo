@@ -21,9 +21,12 @@ DOMAIN,www.王二小放牛娃.top
 # 玩偶
 DOMAIN-SUFFIX,wogg.net
 DOMAIN-SUFFIX,xxooo.cf
+DOMAIN-SUFFIX,333232.xyz
 
 # 木偶
 DOMAIN-SUFFIX,666291.xyz
+DOMAIN-SUFFIX,muou.asia
+DOMAIN-SUFFIX,muou.site
 
 # 讴歌
 DOMAIN-SUFFIX,nxog.eu.org
@@ -39,9 +42,14 @@ DOMAIN,tv.yydsys.top
 
 # 蜡笔
 DOMAIN,feimaoai.site
+DOMAIN,fmao.shop
+DOMAIN,xiaocgege.shop
+DOMAIN,xiaocge.fun
 
 # 至臻
 DOMAIN,xiaomiai.site
+DOMAIN,mihdr.top
+DOMAIN,miqk.cc
 
 # github代理
 DOMAIN,gh-proxy.com
@@ -50,13 +58,16 @@ DOMAIN-SUFFIX,moeyy.xyz
 DOMAIN,github.catvod.com
 
 # 二小
-DOMAIN,xhww.net
+DOMAIN-SUFFIX,xhww.net
+DOMAIN-SUFFIX,2xiaopan.top
+DOMAIN-SUFFIX,erixaopan.fun
+DOMAIN-SUFFIX,wexwp.cc
 
 # 虎斑
-DOMAIN,xhban.xyz
+DOMAIN-SUFFIX,xhban.xyz
 
 # 快映
-DOMAIN,xsayang.fun
+DOMAIN-SUFFIX,xsayang.fun
 
 
 # 时间服务器
