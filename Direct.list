@@ -12,6 +12,9 @@
 # 如：DOMAIN-KEYWORD, apple, Proxy
 # 如果请求的域包含关键字，则规则匹配。例如：www.apple.com、itunes.apple.com、apple.com、applemusic.com
 
+# 老g
+DOMAIN,ailg.ggbond.org
+
 # 镜像代理
 DOMAIN,docker.1ms.run
 DOMAIN,hub.rat.dev
