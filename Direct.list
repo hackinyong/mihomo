@@ -15,6 +15,10 @@
 # 老g
 DOMAIN,ailg.ggbond.org
 
+# video
+DOMAIN-SUFFIX,wenjian.de
+DOMAIN-SUFFIX,278612356.xyz
+
 # 镜像代理
 DOMAIN,docker.1ms.run
 DOMAIN,hub.rat.dev
